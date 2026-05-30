@@ -4,7 +4,7 @@ pipeline {
 
     tools {
         maven 'mymaven'
-        jdk 'jdk21'
+        
     }
 
     options {
